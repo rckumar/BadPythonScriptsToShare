@@ -1,0 +1,23 @@
+How I did it:
+
+Clicked the link https://github.com/ShoddyPythonScriptMan/BadPythonScriptsToShare
+
+Clicked "Clone or Download"
+
+Download and install Python
+
+Download and install Anaconda
+
+Download and install PyCharm Community edition (it had a checkbox to install Jre along with it during the installation wizard, which I accepted)
+
+Run the console through PyCharm (alt+F12)
+
+Type pip install bs4
+
+Once it's done type pip install requests
+
+Get the console to the folder you downloaded his github stuff to (usually by typing something like cd c:\users...)
+
+Type Python BookShelfScrape (I renamed it because the prompt was having an issue with the spaces)
+
+I hope I didn't forget any of the steps and I know this is obvious for a lot of people, but for me it involved a lot o googling and failed attempts, so I figured I might as well share. =)
